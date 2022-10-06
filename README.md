@@ -38,8 +38,6 @@ I`m very excited to develop myself in this area, making new connections and cont
 <p align="left"> <a href="https://www.github.com/https://github.com/daniela-miyasato" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/daniela-miyasato" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=daniela-miyasato))
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/daniela-miyasato"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daniela-miyasato&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
