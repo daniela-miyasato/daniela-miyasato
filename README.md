@@ -36,3 +36,6 @@ I`m very excited to develop myself in this area, making new connections and cont
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/https://github.com/daniela-miyasato" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/daniela-miyasato" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
+![image](https://github-readme-stats.vercel.app/api?username=daniela-miyasato)
