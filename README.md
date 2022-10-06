@@ -39,3 +39,6 @@ I`m very excited to develop myself in this area, making new connections and cont
 
 
 ![image](https://github-readme-stats.vercel.app/api?username=daniela-miyasato)
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniela-miyasato&hide_border=true&layout=compact" /></div>  
+
