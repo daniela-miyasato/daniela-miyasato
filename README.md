@@ -40,4 +40,8 @@ I`m very excited to develop myself in this area, making new connections and cont
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=daniela-miyasato))
 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/daniela-miyasato"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daniela-miyasato&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/daniela-miyasato" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniela-miyasato&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
